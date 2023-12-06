@@ -1,0 +1,64 @@
+Type=Exe
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\..\..\..\WINDOWS\SYSTEM32\STDOLE2.TLB#OLE Automation
+Form=Form15.frm
+Form=Form2.frm
+Form=Form24.frm
+Form=Form14.frm
+Form=Form8.frm
+Form=Form13.frm
+Form=Form7.frm
+Form=form10.frm
+Form=Form17.frm
+Form=Form23.frm
+Form=Form100.frm
+Form=form25.frm
+Form=Form11.frm
+Form=Form21.frm
+Form=Form22.frm
+Form=Form35.frm
+Form=Form4.frm
+Form=Form3.frm
+Form=Form45.frm
+Form=Form40.frm
+Form=Form31.frm
+Form=Form200.frm
+Form=Form111.frm
+Form=Form112.frm
+Startup="Form23"
+IconForm="Form23"
+HelpFile=""
+ExeName32="rds-simple.exe"
+Name="¹¤³Ì1"
+Title="RDS"
+VersionCompanyName="aaaa"
+MajorVer=1
+MinorVer=00
+RevisionVer=0
+Command32 = ""
+HelpContextID = "0"
+CompatibleMode = "0"
+AutoIncrementVer = 0
+ServerSupportFiles = 0
+CompilationType = 0
+OptimizationType = 0
+FavorPentiumPro(tm) = 0
+CodeViewDebugInfo = 0
+NoAliasing = 0
+BoundsCheck = 0
+OverflowCheck = -1
+FlPointCheck = 0
+FDIVCheck = 0
+UnroundedFP = 0
+StartMode = 0
+Unattended = 0
+Retained = 0
+ThreadPerObject = 0
+MaxNumberOfThreads = 1
+
+[MS Transaction Server]
+AutoRefresh = 1
+
+[VB Decompiler]
+Build = 11.5.7492.44943
+Date = 2023/12/6
+
